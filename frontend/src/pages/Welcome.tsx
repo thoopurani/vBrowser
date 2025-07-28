@@ -114,7 +114,7 @@ const Welcome: React.FC = () => {
               <Database className="h-6 w-6 text-blue-600" />
             </div>
             <h3 className="text-lg font-semibold text-gray-900 mb-2">Multi-Instance</h3>
-            <p className="text-gray-600">Manage multiple Qdrant instances from a single interface</p>
+            <p className="text-gray-600">Manage multiple Qdrant/Chroma instances from a single interface</p>
           </div>
           <div className="card text-center">
             <div className="p-3 bg-green-100 rounded-full w-12 h-12 mx-auto mb-4 flex items-center justify-center">
