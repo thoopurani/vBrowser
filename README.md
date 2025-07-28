@@ -41,6 +41,8 @@ A beautiful and intuitive web-based interface for managing your vector databases
 
 ### Installation
 
+Run the 'start.sh'. It will set up both backend or front end. If you wish to do it separately, follow the below steps.
+
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/vector-database-browser.git
